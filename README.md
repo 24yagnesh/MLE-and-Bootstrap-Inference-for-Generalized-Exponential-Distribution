@@ -1,0 +1,1 @@
+# MLE-and-Bootstrap-Inference-for-Generalized-Exponential-Distribution
